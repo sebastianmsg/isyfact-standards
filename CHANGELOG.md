@@ -59,6 +59,7 @@
 - `IFS-2416`: [isy-task] Umstellung von isy-sicherheit auf isy-security
 - `ISY-372`: [isy-styleguide] JavaScript-Referenzen entfernt
 - `ISY-416`: [isyfact-products-bom] Versionsanhebung von Metro Webservices auf 2.4.9
+- `ISY-305`: [isy-security] Implementierung von IsySecurityTokenUtil zum Auslesen von Attributen aus dem Bearer Token
 
 ## BREAKING CHANGE
 
