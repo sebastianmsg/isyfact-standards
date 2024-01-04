@@ -1,3 +1,6 @@
+# 4.0.0
+- `ISY-737`: [isyfact-standards] Java Compile Target 17
+
 # 3.0.0
 - `ISY-183`: [isyfact-standards-doc] Migrationsleitfaden zur Entfernung der Bridge-Module
 - `ISY-54`: [isyfact-standards-doc] Migrationsleitfaden zur Umstellung auf isy-security
