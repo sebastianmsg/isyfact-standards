@@ -1,3 +1,6 @@
+# 4.0.0
+- `IFS-2079`: Neues Modul für Parent-POM mit Plugin Management hinzugefügt
+
 # 3.0.0
 - `ISY-183`: [isyfact-standards-doc] Migrationsleitfaden zur Entfernung der Bridge-Module
 - `ISY-54`: [isyfact-standards-doc] Migrationsleitfaden zur Umstellung auf isy-security
